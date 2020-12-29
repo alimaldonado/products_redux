@@ -1,29 +1,74 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Jugo de Zanahoria",
-        "price": "31111"
-      },
-      {
-        "id": 2,
-        "name": "Jugo de Naranja",
-        "price": "1"
-      },
-      {
-        "name": "Jugo de Naranja",
-        "price": "300",
-        "id": 3
-      },
-      {
-        "name": "Rib Eye 800g",
-        "price": "200",
-        "id": 4
-      },
-      {
-        "name": "Jugo de Fresa",
-        "price": "200",
-        "id": 5
-      }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Jugo de Zanahoria",
+      "price": "31111"
+    },
+    {
+      "id": 2,
+      "name": "Jugo de Naranja",
+      "price": "1"
+    },
+    {
+      "name": "Jugo de Naranja",
+      "price": "300",
+      "id": 3
+    },
+    {
+      "name": "Rib Eye 800g",
+      "price": "200",
+      "id": 4
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Piernil de pollo",
+      "price": 25.6,
+      "id": 6
+    },
+    {
+      "name": "Aguacate",
+      "price": 80.5,
+      "id": 7
+    },
+    {
+      "name": "Jamón",
+      "price": 70.1,
+      "id": 8
+    },
+    {
+      "name": "Jamon",
+      "price": 70.1,
+      "id": 9
+    },
+    {
+      "name": "Jamon",
+      "price": 70.1,
+      "id": 10
+    },
+    {
+      "name": "Jamon",
+      "price": 70.1,
+      "id": 11
+    },
+    {
+      "name": "Jamon",
+      "price": 70.1,
+      "id": 12
+    },
+    {
+      "name": "Jamon",
+      "price": 70.1,
+      "id": 13
+    },
+    {
+      "name": "Jamon",
+      "price": 70.1,
+      "id": 14
+    }
+  ]
 }
