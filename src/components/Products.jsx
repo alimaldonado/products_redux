@@ -8,6 +8,7 @@ const Products = () => {
   useEffect(() => {
     const loadProducts = () => dispatch(getProductsAction());
     loadProducts();
+    //eslint-disable-next-line
   }, []);
 
   const products = useSelector((state) => state.products.products);

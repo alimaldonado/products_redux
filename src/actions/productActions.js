@@ -133,7 +133,7 @@ export function editProductAction(product){
             dispatch(editProductSuccess(product));
 
         } catch (error) {
-            
+            dispatch(editProductError());
         }
     }
 }
@@ -145,4 +145,9 @@ const editProduct = () => ({
 const editProductSuccess = product => ({
     type: PRODUCT_EDIT_SUCCESS,
     payload: product
+})
+
+const editProductError = () => ({
+  type: PRODUCT_EDIT_ERROR,
+  payload: true
 })
