@@ -2,7 +2,7 @@
   "products": [
     {
       "name": "Rib Eye 800g",
-      "price": "200",
+      "price": "400",
       "id": 4
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "Aguacate",
-      "price": 80.5,
+      "price": "95",
       "id": 7
     }
   ]
