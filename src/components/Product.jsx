@@ -44,14 +44,14 @@ const Product = ({ product }) => {
       </td>
       <td className="acciones">
         <button type="button" onClick={() => redirectToEdit(product)} className="btn btn-primary mr-2">
-          Editar
+          Edit
         </button>
         <button
           type="button"
           className="btn btn-danger"
           onClick={() => confirmDelete(id)}
         >
-          Eliminar
+          Delete
         </button>
       </td>
     </tr>
